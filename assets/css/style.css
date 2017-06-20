@@ -1,1 +1,24 @@
-/* Holiii otra vez */
+body{
+	margin:0;
+	padding:0;
+	overflow-x: 0;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+/*NEWS*/
+#red{
+	color:red;
+}
+/*MENU*/
+a{
+	color: black;
+}
+li{
+	padding-right: 38px;
+}
+
+.navbar-default{
+	background-color: transparent;
+	border-color: transparent;
+}
